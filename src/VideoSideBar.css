@@ -1,0 +1,29 @@
+/* .videoSideBar{
+    position: relative;
+    bottom: 500px;
+}
+
+.sideBar{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.favoriteSide{
+    margin: 30px;
+}
+.messageSide{
+    margin: 30px;
+}
+.shareSide{
+    margin: 30px;
+} */
+
+.videoSideBar{
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    color: white;
+}
+.videoSideBar__button{
+    padding: 20px;
+}
